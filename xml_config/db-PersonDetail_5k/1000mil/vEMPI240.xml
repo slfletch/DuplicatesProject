@@ -1,0 +1,88 @@
+<duke>
+<!--To run this job:  java -classpath ".;c:\duke-1.2\*" RunDukeTestAA vEMPI240.xml -->
+<!--TO recompile wrapper:  javac -cp c:\duke-1.2\* RunDukeTestAA.java -->
+<!-- -->
+
+<database class="no.priv.garshol.duke.databases.LuceneDatabase">
+    <param name="min-relevance" value="0.99"/>
+    <param name="max-search-hits" value="10"/>
+    <param name="path" value="lucene-index"/> 
+    <param name="fuzzy-search" value="false"/>
+</database>
+
+  <schema>
+    <threshold>0.99</threshold>
+    <maybe-threshold>0.5</maybe-threshold>
+    <path>test</path>
+
+	<!-- Match within client_key to combination of SSN, fname, DOB with a unique patient key. If the incoming demographics match up to more than one person key on
+		 these conditions, we ideally want all the matched keys to be linked to exactly one member key. If this is not the case, we want to pick one of the member
+		 keys arbitrarily and link the incoming record (new person key) to that member key. If we pick the wrong member, then we trust the member fix to fix it later.
+		  (per discussion with Fletch on 6-26) -->
+     <property>
+      <name>clientKey</name>  <!-- We would **LOVE** to filter down the base record set instead of matching on this field, if possible. Blocking configuration? -->
+	  <comparator>no.priv.garshol.duke.comparators.ExactComparator</comparator>
+      <low>0.0</low>
+      <high>1</high>
+    </property>
+	<property>
+      <name>givenName</name> 
+      <comparator>no.priv.garshol.duke.comparators.ExactComparator</comparator>
+      <low>0.0</low>
+      <high>1</high>
+    </property>    
+	<property>
+      <name>dateOfBirth</name>
+      <comparator>no.priv.garshol.duke.comparators.ExactComparator</comparator>
+      <low>0.0</low>
+      <high>1</high>
+    </property>    
+	<property>
+      <name>SSN</name>
+      <comparator>no.priv.garshol.duke.comparators.ExactComparator</comparator>
+      <low>0.0</low>
+      <high>1</high>
+    </property>    
+  </schema>  
+
+  <!-- ORDER OF THESE GROUPS MATTERS!!! It returns links for topGroup RIGHT JOIN bottomGroup - i.e. no record is returned for a topGroup record that doesnt match a bottomGroup record.
+		However, bottomGroup records that don't join to a topGroup record are returned as "non-match" -->
+  <group>
+  <jdbc>
+	    <param name="driver-class" value="com.microsoft.sqlserver.jdbc.SQLServerDriver"/>
+	    <param name="connection-string" value="jdbc:sqlserver://localhost;databaseName=vMPI;integratedSecurity=false"/>
+	    <param name="user-name" value="jdbc"/>
+	    <param name="password" value="jdbc"/>
+	    <param name="query" value="select 
+									  identifier
+									, givenName 
+									, dateOfBirth 
+									, Gender
+									from dbo.PersonDetail_small"/>  
+	    <column name="identifier"
+				property="clientKey"/>
+		<column name="givenName"
+				property="givenName"/>   
+		<column name="dateOfBirth"
+				property="dateOfBirth"/> 
+		<column name="Gender"
+				property="sex"/>
+	  </jdbc>   
+  </group>
+  <group>
+	  <csv>
+		<param name="input-file" value="e:\data\openempi_test_patients_1m.txt" />
+		<param name="header-line" value="false" />
+		
+	    <column name="1"
+				property="client_key"/> 
+		<column name="2"
+				property="givenName"/> 
+		<column name="9"
+				property="dateOfBirth"/> 
+		<column name="11"
+				cleaner="no.priv.garshol.duke.cleaners.DigitsOnlyCleaner"
+				property="SSN"/> 
+	  </csv>
+  </group>
+</duke>

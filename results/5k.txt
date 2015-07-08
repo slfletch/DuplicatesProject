@@ -1,0 +1,309 @@
+FileName: X:\brandon\matching_configuration.txt
+
+Matching config number 1 - X:\\brandon\\xml_config\\vEMPI050.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+5001 processed, 4174 records/second; comparisons: 49862
+
+Total records: 485001
+Total matches: 0
+Total non-matches: 4993
+Run completed, 132 records/second
+5001 records total in 37 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 4 (83%)
+Comparing: 0 (16%)
+Callbacks: 0 (0%)
+
+Total memory: 936378368, free memory: 279670592, used memory: 656707776
+Processing time for this rule: 38.038 seconds
+Total processing time so far: 38.038 seconds
+
+Matching config number 2 - X:\\brandon\\xml_config\\vEMPI175.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+5001 processed, 14087 records/second; comparisons: 4742
+
+Total records: 485001
+Total matches: 0
+Total non-matches: 4999
+Run completed, 744 records/second
+5001 records total in 6 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 1 (98%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 866123776, free memory: 413061936, used memory: 453061840
+Processing time for this rule: 6.861 seconds
+Total processing time so far: 44.9 seconds
+
+Matching config number 3 - X:\\brandon\\xml_config\\vEMPI200.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+5001 processed, 158 records/second; comparisons: 33173
+
+Total records: 485001
+Total matches: 0
+Total non-matches: 5001
+Run completed, 121 records/second
+5001 records total in 41 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 154 (99%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 721420288, free memory: 450569976, used memory: 270850312
+Processing time for this rule: 41.182 seconds
+Total processing time so far: 86.082 seconds
+
+Matching config number 4 - X:\\brandon\\xml_config\\vEMPI240.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+5001 processed, 462 records/second; comparisons: 26714
+
+Total records: 485001
+Total matches: 0
+Total non-matches: 5001
+Run completed, 247 records/second
+5001 records total in 20 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 52 (99%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 595066880, free memory: 374171568, used memory: 220895312
+Processing time for this rule: 20.23 seconds
+Total processing time so far: 106.312 seconds
+
+Matching config number 5 - X:\\brandon\\xml_config\\vEMPI300.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+5001 processed, 158 records/second; comparisons: 33175
+
+Total records: 485001
+Total matches: 0
+Total non-matches: 5000
+Run completed, 134 records/second
+5001 records total in 37 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 155 (99%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 515899392, free memory: 318325400, used memory: 197573992
+Processing time for this rule: 37.169 seconds
+Total processing time so far: 143.481 seconds
+
+Matching config number 6 - X:\\brandon\\xml_config\\vEMPI400.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+5001 processed, 15108 records/second; comparisons: 816
+
+Total records: 485001
+Total matches: 0
+Total non-matches: 4995
+Run completed, 247 records/second
+5001 records total in 20 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 1 (99%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 468189184, free memory: 346942056, used memory: 121247128
+Processing time for this rule: 20.213 seconds
+Total processing time so far: 163.694 seconds
+
+Matching config number 7 - X:\\brandon\\xml_config\\vEMPI460.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+5001 processed, 144 records/second; comparisons: 33176
+
+Total records: 485001
+Total matches: 0
+Total non-matches: 5001
+Run completed, 100 records/second
+5001 records total in 49 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 171 (99%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 749731840, free memory: 527886488, used memory: 221845352
+Processing time for this rule: 49.75 seconds
+Total processing time so far: 213.445 seconds
+
+Matching config number 8 - X:\\brandon\\xml_config\\vEMPI461.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+5001 processed, 431 records/second; comparisons: 26718
+
+Total records: 485001
+Total matches: 0
+Total non-matches: 5001
+Run completed, 211 records/second
+5001 records total in 23 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 56 (99%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 635961344, free memory: 65390584, used memory: 570570760
+Processing time for this rule: 23.715 seconds
+Total processing time so far: 237.16 seconds
+
+Matching config number 9 - X:\\brandon\\xml_config\\vEMPI462.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+5001 processed, 418 records/second; comparisons: 26717
+
+Total records: 485001
+Total matches: 0
+Total non-matches: 5000
+Run completed, 233 records/second
+5001 records total in 21 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 58 (99%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 516947968, free memory: 78709728, used memory: 438238240
+Processing time for this rule: 21.45 seconds
+Total processing time so far: 258.61 seconds
+
+Matching config number 10 - X:\\brandon\\xml_config\\vEMPI475.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+5001 processed, 152 records/second; comparisons: 33175
+
+Total records: 485001
+Total matches: 0
+Total non-matches: 5001
+Run completed, 101 records/second
+5001 records total in 49 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 162 (99%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 497549312, free memory: 265592256, used memory: 231957056
+Processing time for this rule: 49.136 seconds
+Total processing time so far: 307.746 seconds
+
+Matching config number 11 - X:\\brandon\\xml_config\\vEMPI500.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+5001 processed, 19015 records/second; comparisons: 818
+
+Total records: 485001
+Total matches: 0
+Total non-matches: 4994
+Run completed, 241 records/second
+5001 records total in 20 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 1 (99%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 309329920, free memory: 58932136, used memory: 250397784
+Processing time for this rule: 20.854 seconds
+Total processing time so far: 328.6 seconds

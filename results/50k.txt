@@ -1,0 +1,309 @@
+FileName: X:\shrwan\duke-1.2\matching_configuration.txt
+
+Matching config number 1 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI050.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+50009 processed, 8979 records/second; comparisons: 497354
+
+Total records: 530009
+Total matches: 0
+Total non-matches: 49975
+Run completed, 1368 records/second
+50009 records total in 36 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 21 (78%)
+Comparing: 5 (20%)
+Callbacks: 0 (0%)
+
+Total memory: 1392508928, free memory: 821399120, used memory: 571109808
+Processing time for this rule: 36.82 seconds
+Total processing time so far: 36.82 seconds
+
+Matching config number 2 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI175.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+50009 processed, 124710 records/second; comparisons: 1086
+
+Total records: 530009
+Total matches: 0
+Total non-matches: 49712
+Run completed, 8314 records/second
+50009 records total in 6 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 1 (98%)
+Comparing: 0 (1%)
+Callbacks: 0 (0%)
+
+Total memory: 1576009728, free memory: 470910792, used memory: 1105098936
+Processing time for this rule: 6.119 seconds
+Total processing time so far: 42.94 seconds
+
+Matching config number 3 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI200.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+50009 processed, 21100 records/second; comparisons: 44461
+
+Total records: 530009
+Total matches: 0
+Total non-matches: 49948
+Run completed, 4495 records/second
+50009 records total in 11 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 11 (98%)
+Comparing: 0 (1%)
+Callbacks: 0 (0%)
+
+Total memory: 1584398336, free memory: 339125888, used memory: 1245272448
+Processing time for this rule: 11.174 seconds
+Total processing time so far: 54.114 seconds
+
+Matching config number 4 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI240.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+50009 processed, 513 records/second; comparisons: 274390
+
+Total records: 530009
+Total matches: 0
+Total non-matches: 50008
+Run completed, 472 records/second
+50009 records total in 105 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 481 (99%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 1375207424, free memory: 303130032, used memory: 1072077392
+Processing time for this rule: 105.894 seconds
+Total processing time so far: 160.008 seconds
+
+Matching config number 5 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI300.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+50009 processed, 37126 records/second; comparisons: 44414
+
+Total records: 530009
+Total matches: 0
+Total non-matches: 49901
+Run completed, 8065 records/second
+50009 records total in 6 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 6 (98%)
+Comparing: 0 (1%)
+Callbacks: 0 (0%)
+
+Total memory: 1587544064, free memory: 1221629024, used memory: 365915040
+Processing time for this rule: 6.254 seconds
+Total processing time so far: 166.262 seconds
+
+Matching config number 6 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI400.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+50009 processed, 31591 records/second; comparisons: 354
+
+Total records: 530009
+Total matches: 0
+Total non-matches: 49613
+Run completed, 2411 records/second
+50009 records total in 20 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 6 (99%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 1536688128, free memory: 1056962744, used memory: 479725384
+Processing time for this rule: 20.77 seconds
+Total processing time so far: 187.032 seconds
+
+Matching config number 7 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI460.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+50009 processed, 9117 records/second; comparisons: 44469
+
+Total records: 530009
+Total matches: 0
+Total non-matches: 49959
+Run completed, 2633 records/second
+50009 records total in 18 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 26 (98%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 1548746752, free memory: 561609328, used memory: 987137424
+Processing time for this rule: 19.031 seconds
+Total processing time so far: 206.063 seconds
+
+Matching config number 8 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI461.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+50009 processed, 521 records/second; comparisons: 274404
+
+Total records: 530009
+Total matches: 0
+Total non-matches: 50009
+Run completed, 473 records/second
+50009 records total in 105 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 475 (99%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 1405616128, free memory: 599857528, used memory: 805758600
+Processing time for this rule: 105.681 seconds
+Total processing time so far: 311.744 seconds
+
+Matching config number 9 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI462.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+Records: 120000
+Records: 240000
+Records: 360000
+Records: 480000
+50009 processed, 508 records/second; comparisons: 274398
+
+Total records: 530009
+Total matches: 0
+Total non-matches: 50008
+Run completed, 471 records/second
+50009 records total in 105 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 488 (99%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 765460480, free memory: 582678144, used memory: 182782336
+Processing time for this rule: 106.013 seconds
+Total processing time so far: 417.758 seconds
+
+Matching config number 10 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI475.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+120000 processed, 36855 records/second; comparisons: 23150
+Records: 120000
+240000 processed, 41695 records/second; comparisons: 46294
+Records: 240000
+360000 processed, 47600 records/second; comparisons: 69430
+Records: 360000
+480000 processed, 46601 records/second; comparisons: 92600
+Records: 480000
+500000 processed, 53050 records/second; comparisons: 96482
+
+Total records: 500000
+Total matches: 0
+Total non-matches: 499081
+Run completed, 33393 records/second
+500000 records total in 14 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 54 (97%)
+Comparing: 1 (1%)
+Callbacks: 0 (0%)
+
+Total memory: 1607991296, free memory: 321834336, used memory: 1286156960
+Processing time for this rule: 15.113 seconds
+Total processing time so far: 432.871 seconds
+
+Matching config number 11 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI500.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+50009 processed, 171852 records/second; comparisons: 11813
+
+Total records: 50009
+Total matches: 0
+Total non-matches: 49351
+Run completed, 28269 records/second
+50009 records total in 1 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 1 (93%)
+Comparing: 0 (6%)
+Callbacks: 0 (0%)
+
+Total memory: 1610088448, free memory: 785630000, used memory: 824458448
+Processing time for this rule: 1.832 seconds
+Total processing time so far: 434.704 seconds

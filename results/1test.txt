@@ -1,0 +1,34 @@
+FileName: X:\shrwan\duke-1.2\matching_configuration.txt
+
+Matching config number 1 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI050.xml
+
+Processing time for this rule: 9.864 seconds
+Total processing time so far: 9.864 seconds
+
+Matching config number 2 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI175.xml
+
+Processing time for this rule: 1.762 seconds
+Total processing time so far: 11.626 seconds
+
+Matching config number 3 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI200.xml
+
+Processing time for this rule: 94.789 seconds
+Total processing time so far: 106.416 seconds
+
+Matching config number 4 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI240.xml
+
+Processing time for this rule: 29.92 seconds
+Total processing time so far: 136.336 seconds
+
+Matching config number 5 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI300.xml
+
+Processing time for this rule: 93.8 seconds
+Total processing time so far: 230.136 seconds
+
+Matching config number 6 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI400.xml
+
+Processing time for this rule: 5.399 seconds
+Total processing time so far: 235.536 seconds
+
+Matching config number 7 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI460.xml
+

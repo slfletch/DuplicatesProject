@@ -1,0 +1,2032 @@
+FileName: X:\shrwan\duke-1.2\matching_configuration.txt
+
+Matching config number 1 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI050.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+40000 processed, 37313 records/second; comparisons: 0
+Records: 40000
+80000 processed, 70052 records/second; comparisons: 0
+Records: 80000
+120000 processed, 94562 records/second; comparisons: 0
+Records: 120000
+160000 processed, 75329 records/second; comparisons: 0
+Records: 160000
+200000 processed, 98765 records/second; comparisons: 0
+Records: 200000
+240000 processed, 78895 records/second; comparisons: 0
+Records: 240000
+280000 processed, 103092 records/second; comparisons: 0
+Records: 280000
+320000 processed, 103896 records/second; comparisons: 0
+Records: 320000
+360000 processed, 80000 records/second; comparisons: 0
+Records: 360000
+400000 processed, 105263 records/second; comparisons: 0
+Records: 400000
+440000 processed, 100250 records/second; comparisons: 0
+Records: 440000
+480000 processed, 103359 records/second; comparisons: 0
+Records: 480000
+520000 processed, 76481 records/second; comparisons: 0
+Records: 520000
+560000 processed, 103896 records/second; comparisons: 0
+Records: 560000
+600000 processed, 102040 records/second; comparisons: 0
+Records: 600000
+640000 processed, 103092 records/second; comparisons: 0
+Records: 640000
+680000 processed, 79522 records/second; comparisons: 0
+Records: 680000
+720000 processed, 104438 records/second; comparisons: 0
+Records: 720000
+760000 processed, 101010 records/second; comparisons: 0
+Records: 760000
+800000 processed, 105820 records/second; comparisons: 0
+Records: 800000
+840000 processed, 100000 records/second; comparisons: 0
+Records: 840000
+880000 processed, 76923 records/second; comparisons: 0
+Records: 880000
+920000 processed, 101265 records/second; comparisons: 0
+Records: 920000
+960000 processed, 103896 records/second; comparisons: 0
+Records: 960000
+1000000 processed, 101522 records/second; comparisons: 0
+Records: 1000000
+1000026 processed, 13000 records/second; comparisons: 0
+
+Total records: 1000026
+Total matches: 0
+Total non-matches: 996601
+Run completed, 60534 records/second
+1000026 records total in 16 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 53 (99%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 1671430144, free memory: 362358480, used memory: 1309071664
+Processing time for this rule: 16.779 seconds
+Total processing time so far: 16.78 seconds
+
+Matching config number 2 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI175.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+40000 processed, 78125 records/second; comparisons: 0
+Records: 40000
+80000 processed, 105540 records/second; comparisons: 0
+Records: 80000
+120000 processed, 87719 records/second; comparisons: 0
+Records: 120000
+160000 processed, 91116 records/second; comparisons: 0
+Records: 160000
+200000 processed, 101010 records/second; comparisons: 0
+Records: 200000
+240000 processed, 104438 records/second; comparisons: 0
+Records: 240000
+280000 processed, 97087 records/second; comparisons: 0
+Records: 280000
+320000 processed, 95465 records/second; comparisons: 0
+Records: 320000
+360000 processed, 113314 records/second; comparisons: 0
+Records: 360000
+400000 processed, 110192 records/second; comparisons: 0
+Records: 400000
+440000 processed, 181818 records/second; comparisons: 0
+Records: 440000
+480000 processed, 268456 records/second; comparisons: 0
+Records: 480000
+520000 processed, 449438 records/second; comparisons: 0
+Records: 520000
+560000 processed, 298507 records/second; comparisons: 0
+Records: 560000
+600000 processed, 135593 records/second; comparisons: 0
+Records: 600000
+640000 processed, 470588 records/second; comparisons: 0
+Records: 640000
+680000 processed, 487804 records/second; comparisons: 0
+Records: 680000
+720000 processed, 506329 records/second; comparisons: 0
+Records: 720000
+760000 processed, 169491 records/second; comparisons: 0
+Records: 760000
+800000 processed, 454545 records/second; comparisons: 0
+Records: 800000
+840000 processed, 476190 records/second; comparisons: 0
+Records: 840000
+880000 processed, 563380 records/second; comparisons: 0
+Records: 880000
+920000 processed, 174672 records/second; comparisons: 0
+Records: 920000
+960000 processed, 493827 records/second; comparisons: 0
+Records: 960000
+1000000 processed, 571428 records/second; comparisons: 0
+Records: 1000000
+1000026 processed, 13000 records/second; comparisons: 0
+
+Total records: 1000026
+Total matches: 0
+Total non-matches: 990671
+Run completed, 125175 records/second
+1000026 records total in 7 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 27 (98%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 1702363136, free memory: 767225432, used memory: 935137704
+Processing time for this rule: 8.008 seconds
+Total processing time so far: 24.788 seconds
+
+Matching config number 3 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI200.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+40000 processed, 9265 records/second; comparisons: 7812
+Records: 40000
+80000 processed, 9592 records/second; comparisons: 15688
+Records: 80000
+120000 processed, 9878 records/second; comparisons: 23515
+Records: 120000
+160000 processed, 9942 records/second; comparisons: 31426
+Records: 160000
+200000 processed, 9847 records/second; comparisons: 39324
+Records: 200000
+240000 processed, 9544 records/second; comparisons: 47367
+Records: 240000
+280000 processed, 9908 records/second; comparisons: 55326
+Records: 280000
+320000 processed, 9977 records/second; comparisons: 63226
+Records: 320000
+360000 processed, 9891 records/second; comparisons: 71173
+Records: 360000
+400000 processed, 9107 records/second; comparisons: 78942
+Records: 400000
+440000 processed, 9729 records/second; comparisons: 86904
+Records: 440000
+480000 processed, 9920 records/second; comparisons: 94764
+Records: 480000
+520000 processed, 9878 records/second; comparisons: 102659
+Records: 520000
+560000 processed, 9918 records/second; comparisons: 110655
+Records: 560000
+600000 processed, 9830 records/second; comparisons: 118709
+Records: 600000
+640000 processed, 9825 records/second; comparisons: 126614
+Records: 640000
+680000 processed, 9760 records/second; comparisons: 134585
+Records: 680000
+720000 processed, 9666 records/second; comparisons: 142440
+Records: 720000
+760000 processed, 9596 records/second; comparisons: 150197
+Records: 760000
+800000 processed, 9957 records/second; comparisons: 158231
+Records: 800000
+840000 processed, 9725 records/second; comparisons: 166232
+Records: 840000
+880000 processed, 9898 records/second; comparisons: 174045
+Records: 880000
+920000 processed, 9770 records/second; comparisons: 181971
+Records: 920000
+960000 processed, 9770 records/second; comparisons: 189874
+Records: 960000
+1000000 processed, 9903 records/second; comparisons: 197780
+Records: 1000000
+1000026 processed, 6500 records/second; comparisons: 197784
+
+Total records: 1000026
+Total matches: 10
+Total non-matches: 999813
+Run completed, 9587 records/second
+1000026 records total in 104 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 502 (99%)
+Comparing: 1 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 1717043200, free memory: 734018872, used memory: 983024328
+Processing time for this rule: 104.427 seconds
+Total processing time so far: 129.215 seconds
+
+Matching config number 4 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI240.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+1000  matches
+2000  matches
+3000  matches
+4000  matches
+5000  matches
+6000  matches
+7000  matches
+8000  matches
+9000  matches
+10000  matches
+11000  matches
+12000  matches
+13000  matches
+14000  matches
+15000  matches
+16000  matches
+17000  matches
+18000  matches
+19000  matches
+20000  matches
+21000  matches
+22000  matches
+23000  matches
+24000  matches
+25000  matches
+26000  matches
+27000  matches
+28000  matches
+29000  matches
+30000  matches
+31000  matches
+32000  matches
+33000  matches
+40000 processed, 16181 records/second; comparisons: 391587
+Records: 40000
+34000  matches
+80000 processed, 17969 records/second; comparisons: 779538
+Records: 80000
+35000  matches
+36000  matches
+37000  matches
+38000  matches
+39000  matches
+40000  matches
+41000  matches
+42000  matches
+43000  matches
+44000  matches
+45000  matches
+46000  matches
+47000  matches
+48000  matches
+49000  matches
+50000  matches
+51000  matches
+52000  matches
+53000  matches
+54000  matches
+55000  matches
+56000  matches
+57000  matches
+58000  matches
+59000  matches
+60000  matches
+61000  matches
+62000  matches
+63000  matches
+64000  matches
+65000  matches
+66000  matches
+67000  matches
+68000  matches
+69000  matches
+70000  matches
+71000  matches
+72000  matches
+73000  matches
+74000  matches
+75000  matches
+76000  matches
+77000  matches
+78000  matches
+79000  matches
+80000  matches
+81000  matches
+82000  matches
+83000  matches
+84000  matches
+85000  matches
+86000  matches
+87000  matches
+88000  matches
+89000  matches
+90000  matches
+91000  matches
+92000  matches
+93000  matches
+94000  matches
+95000  matches
+96000  matches
+97000  matches
+98000  matches
+99000  matches
+100000  matches
+101000  matches
+102000  matches
+103000  matches
+104000  matches
+105000  matches
+106000  matches
+107000  matches
+108000  matches
+109000  matches
+110000  matches
+111000  matches
+112000  matches
+113000  matches
+114000  matches
+115000  matches
+116000  matches
+117000  matches
+118000  matches
+119000  matches
+120000  matches
+121000  matches
+122000  matches
+123000  matches
+124000  matches
+125000  matches
+126000  matches
+127000  matches
+128000  matches
+129000  matches
+130000  matches
+131000  matches
+132000  matches
+133000  matches
+134000  matches
+135000  matches
+136000  matches
+137000  matches
+120000 processed, 17825 records/second; comparisons: 1164371
+Records: 120000
+138000  matches
+139000  matches
+140000  matches
+141000  matches
+142000  matches
+143000  matches
+144000  matches
+145000  matches
+146000  matches
+147000  matches
+148000  matches
+149000  matches
+150000  matches
+151000  matches
+152000  matches
+153000  matches
+154000  matches
+155000  matches
+156000  matches
+157000  matches
+158000  matches
+159000  matches
+160000  matches
+161000  matches
+162000  matches
+163000  matches
+164000  matches
+165000  matches
+166000  matches
+167000  matches
+168000  matches
+169000  matches
+170000  matches
+171000  matches
+172000  matches
+173000  matches
+174000  matches
+175000  matches
+176000  matches
+177000  matches
+178000  matches
+179000  matches
+180000  matches
+181000  matches
+182000  matches
+183000  matches
+184000  matches
+185000  matches
+186000  matches
+187000  matches
+188000  matches
+189000  matches
+190000  matches
+191000  matches
+192000  matches
+193000  matches
+194000  matches
+195000  matches
+196000  matches
+197000  matches
+198000  matches
+199000  matches
+200000  matches
+201000  matches
+202000  matches
+203000  matches
+204000  matches
+205000  matches
+206000  matches
+206000  matches
+207000  matches
+208000  matches
+209000  matches
+210000  matches
+211000  matches
+212000  matches
+213000  matches
+214000  matches
+215000  matches
+216000  matches
+217000  matches
+218000  matches
+219000  matches
+220000  matches
+221000  matches
+222000  matches
+223000  matches
+224000  matches
+225000  matches
+226000  matches
+227000  matches
+228000  matches
+229000  matches
+230000  matches
+231000  matches
+232000  matches
+233000  matches
+234000  matches
+235000  matches
+236000  matches
+237000  matches
+238000  matches
+239000  matches
+240000  matches
+241000  matches
+242000  matches
+243000  matches
+244000  matches
+245000  matches
+246000  matches
+247000  matches
+248000  matches
+249000  matches
+250000  matches
+251000  matches
+252000  matches
+253000  matches
+254000  matches
+255000  matches
+256000  matches
+257000  matches
+258000  matches
+259000  matches
+260000  matches
+261000  matches
+262000  matches
+263000  matches
+264000  matches
+265000  matches
+266000  matches
+267000  matches
+268000  matches
+269000  matches
+270000  matches
+271000  matches
+272000  matches
+273000  matches
+274000  matches
+275000  matches
+276000  matches
+277000  matches
+278000  matches
+279000  matches
+280000  matches
+281000  matches
+282000  matches
+283000  matches
+284000  matches
+285000  matches
+160000 processed, 17467 records/second; comparisons: 1556831
+Records: 160000
+286000  matches
+287000  matches
+288000  matches
+289000  matches
+290000  matches
+291000  matches
+292000  matches
+293000  matches
+294000  matches
+295000  matches
+296000  matches
+297000  matches
+298000  matches
+299000  matches
+300000  matches
+301000  matches
+302000  matches
+303000  matches
+304000  matches
+305000  matches
+306000  matches
+307000  matches
+308000  matches
+309000  matches
+310000  matches
+311000  matches
+312000  matches
+313000  matches
+314000  matches
+315000  matches
+316000  matches
+317000  matches
+318000  matches
+319000  matches
+320000  matches
+321000  matches
+322000  matches
+323000  matches
+324000  matches
+325000  matches
+326000  matches
+327000  matches
+328000  matches
+329000  matches
+330000  matches
+331000  matches
+332000  matches
+333000  matches
+334000  matches
+335000  matches
+336000  matches
+337000  matches
+338000  matches
+339000  matches
+340000  matches
+341000  matches
+342000  matches
+343000  matches
+344000  matches
+345000  matches
+346000  matches
+347000  matches
+348000  matches
+349000  matches
+350000  matches
+351000  matches
+352000  matches
+353000  matches
+354000  matches
+355000  matches
+356000  matches
+357000  matches
+358000  matches
+359000  matches
+360000  matches
+361000  matches
+362000  matches
+363000  matches
+364000  matches
+365000  matches
+366000  matches
+367000  matches
+368000  matches
+369000  matches
+370000  matches
+371000  matches
+372000  matches
+373000  matches
+374000  matches
+375000  matches
+376000  matches
+377000  matches
+378000  matches
+379000  matches
+380000  matches
+381000  matches
+382000  matches
+383000  matches
+384000  matches
+385000  matches
+386000  matches
+387000  matches
+388000  matches
+389000  matches
+390000  matches
+391000  matches
+392000  matches
+393000  matches
+394000  matches
+395000  matches
+396000  matches
+397000  matches
+398000  matches
+399000  matches
+400000  matches
+401000  matches
+402000  matches
+403000  matches
+404000  matches
+405000  matches
+406000  matches
+407000  matches
+408000  matches
+409000  matches
+410000  matches
+411000  matches
+412000  matches
+413000  matches
+414000  matches
+415000  matches
+416000  matches
+417000  matches
+418000  matches
+419000  matches
+420000  matches
+421000  matches
+422000  matches
+423000  matches
+424000  matches
+425000  matches
+426000  matches
+427000  matches
+428000  matches
+429000  matches
+430000  matches
+431000  matches
+432000  matches
+433000  matches
+200000 processed, 17699 records/second; comparisons: 1949355
+Records: 200000
+434000  matches
+435000  matches
+436000  matches
+437000  matches
+438000  matches
+439000  matches
+440000  matches
+441000  matches
+442000  matches
+443000  matches
+444000  matches
+445000  matches
+446000  matches
+447000  matches
+448000  matches
+449000  matches
+450000  matches
+451000  matches
+452000  matches
+453000  matches
+454000  matches
+455000  matches
+456000  matches
+457000  matches
+458000  matches
+459000  matches
+460000  matches
+461000  matches
+462000  matches
+463000  matches
+464000  matches
+465000  matches
+466000  matches
+467000  matches
+468000  matches
+469000  matches
+470000  matches
+471000  matches
+472000  matches
+473000  matches
+474000  matches
+475000  matches
+476000  matches
+477000  matches
+478000  matches
+479000  matches
+480000  matches
+481000  matches
+482000  matches
+483000  matches
+484000  matches
+485000  matches
+486000  matches
+487000  matches
+488000  matches
+489000  matches
+490000  matches
+491000  matches
+492000  matches
+493000  matches
+494000  matches
+495000  matches
+496000  matches
+497000  matches
+498000  matches
+499000  matches
+500000  matches
+501000  matches
+502000  matches
+503000  matches
+504000  matches
+505000  matches
+506000  matches
+507000  matches
+508000  matches
+509000  matches
+510000  matches
+511000  matches
+512000  matches
+513000  matches
+514000  matches
+515000  matches
+516000  matches
+517000  matches
+518000  matches
+519000  matches
+520000  matches
+521000  matches
+522000  matches
+523000  matches
+524000  matches
+525000  matches
+526000  matches
+527000  matches
+528000  matches
+529000  matches
+530000  matches
+531000  matches
+532000  matches
+533000  matches
+534000  matches
+535000  matches
+536000  matches
+537000  matches
+538000  matches
+539000  matches
+540000  matches
+541000  matches
+542000  matches
+543000  matches
+544000  matches
+545000  matches
+546000  matches
+547000  matches
+548000  matches
+549000  matches
+550000  matches
+551000  matches
+552000  matches
+553000  matches
+554000  matches
+555000  matches
+556000  matches
+557000  matches
+558000  matches
+559000  matches
+560000  matches
+561000  matches
+562000  matches
+563000  matches
+564000  matches
+565000  matches
+566000  matches
+567000  matches
+568000  matches
+569000  matches
+570000  matches
+571000  matches
+572000  matches
+573000  matches
+574000  matches
+575000  matches
+576000  matches
+577000  matches
+578000  matches
+579000  matches
+580000  matches
+240000 processed, 17271 records/second; comparisons: 2341698
+Records: 240000
+581000  matches
+582000  matches
+583000  matches
+584000  matches
+585000  matches
+586000  matches
+587000  matches
+588000  matches
+589000  matches
+590000  matches
+591000  matches
+592000  matches
+593000  matches
+594000  matches
+595000  matches
+596000  matches
+597000  matches
+598000  matches
+599000  matches
+600000  matches
+601000  matches
+602000  matches
+603000  matches
+604000  matches
+605000  matches
+606000  matches
+607000  matches
+608000  matches
+609000  matches
+610000  matches
+611000  matches
+612000  matches
+613000  matches
+614000  matches
+615000  matches
+616000  matches
+617000  matches
+618000  matches
+619000  matches
+620000  matches
+621000  matches
+622000  matches
+623000  matches
+624000  matches
+625000  matches
+626000  matches
+627000  matches
+628000  matches
+629000  matches
+630000  matches
+631000  matches
+632000  matches
+633000  matches
+634000  matches
+635000  matches
+636000  matches
+637000  matches
+638000  matches
+639000  matches
+640000  matches
+641000  matches
+642000  matches
+643000  matches
+644000  matches
+645000  matches
+646000  matches
+647000  matches
+648000  matches
+649000  matches
+650000  matches
+651000  matches
+652000  matches
+653000  matches
+654000  matches
+655000  matches
+656000  matches
+657000  matches
+658000  matches
+659000  matches
+660000  matches
+661000  matches
+662000  matches
+663000  matches
+664000  matches
+665000  matches
+666000  matches
+667000  matches
+668000  matches
+669000  matches
+670000  matches
+671000  matches
+672000  matches
+673000  matches
+674000  matches
+675000  matches
+676000  matches
+677000  matches
+678000  matches
+679000  matches
+680000  matches
+681000  matches
+682000  matches
+683000  matches
+684000  matches
+685000  matches
+686000  matches
+687000  matches
+688000  matches
+689000  matches
+690000  matches
+691000  matches
+692000  matches
+693000  matches
+694000  matches
+695000  matches
+696000  matches
+697000  matches
+698000  matches
+699000  matches
+700000  matches
+701000  matches
+702000  matches
+703000  matches
+704000  matches
+705000  matches
+706000  matches
+707000  matches
+708000  matches
+709000  matches
+710000  matches
+711000  matches
+712000  matches
+713000  matches
+714000  matches
+280000 processed, 17383 records/second; comparisons: 2733731
+Records: 280000
+715000  matches
+716000  matches
+717000  matches
+718000  matches
+719000  matches
+720000  matches
+721000  matches
+722000  matches
+723000  matches
+724000  matches
+725000  matches
+726000  matches
+727000  matches
+728000  matches
+729000  matches
+730000  matches
+731000  matches
+732000  matches
+733000  matches
+734000  matches
+735000  matches
+736000  matches
+737000  matches
+738000  matches
+739000  matches
+740000  matches
+741000  matches
+742000  matches
+743000  matches
+744000  matches
+745000  matches
+746000  matches
+747000  matches
+748000  matches
+749000  matches
+750000  matches
+751000  matches
+752000  matches
+753000  matches
+754000  matches
+755000  matches
+756000  matches
+757000  matches
+758000  matches
+759000  matches
+760000  matches
+761000  matches
+762000  matches
+763000  matches
+764000  matches
+765000  matches
+766000  matches
+767000  matches
+768000  matches
+769000  matches
+770000  matches
+771000  matches
+772000  matches
+773000  matches
+774000  matches
+775000  matches
+776000  matches
+777000  matches
+778000  matches
+779000  matches
+780000  matches
+781000  matches
+782000  matches
+783000  matches
+784000  matches
+785000  matches
+786000  matches
+787000  matches
+788000  matches
+789000  matches
+790000  matches
+791000  matches
+792000  matches
+793000  matches
+794000  matches
+795000  matches
+796000  matches
+797000  matches
+798000  matches
+799000  matches
+800000  matches
+801000  matches
+802000  matches
+803000  matches
+804000  matches
+805000  matches
+806000  matches
+807000  matches
+808000  matches
+809000  matches
+810000  matches
+811000  matches
+812000  matches
+813000  matches
+814000  matches
+815000  matches
+816000  matches
+817000  matches
+818000  matches
+819000  matches
+820000  matches
+821000  matches
+822000  matches
+823000  matches
+824000  matches
+825000  matches
+826000  matches
+827000  matches
+828000  matches
+829000  matches
+830000  matches
+831000  matches
+832000  matches
+833000  matches
+834000  matches
+835000  matches
+836000  matches
+837000  matches
+838000  matches
+839000  matches
+840000  matches
+841000  matches
+842000  matches
+843000  matches
+844000  matches
+845000  matches
+846000  matches
+847000  matches
+848000  matches
+849000  matches
+850000  matches
+851000  matches
+852000  matches
+853000  matches
+854000  matches
+855000  matches
+856000  matches
+857000  matches
+858000  matches
+859000  matches
+860000  matches
+320000 processed, 17881 records/second; comparisons: 3125632
+Records: 320000
+861000  matches
+862000  matches
+863000  matches
+864000  matches
+865000  matches
+866000  matches
+867000  matches
+868000  matches
+869000  matches
+870000  matches
+871000  matches
+872000  matches
+873000  matches
+874000  matches
+875000  matches
+876000  matches
+877000  matches
+878000  matches
+879000  matches
+880000  matches
+881000  matches
+882000  matches
+883000  matches
+884000  matches
+885000  matches
+886000  matches
+887000  matches
+888000  matches
+889000  matches
+890000  matches
+891000  matches
+892000  matches
+893000  matches
+894000  matches
+895000  matches
+896000  matches
+897000  matches
+898000  matches
+899000  matches
+900000  matches
+901000  matches
+902000  matches
+903000  matches
+904000  matches
+905000  matches
+906000  matches
+907000  matches
+908000  matches
+909000  matches
+910000  matches
+911000  matches
+912000  matches
+913000  matches
+914000  matches
+915000  matches
+916000  matches
+917000  matches
+918000  matches
+919000  matches
+920000  matches
+921000  matches
+922000  matches
+923000  matches
+924000  matches
+925000  matches
+926000  matches
+927000  matches
+928000  matches
+929000  matches
+930000  matches
+931000  matches
+932000  matches
+933000  matches
+934000  matches
+935000  matches
+936000  matches
+937000  matches
+938000  matches
+939000  matches
+940000  matches
+941000  matches
+942000  matches
+943000  matches
+944000  matches
+945000  matches
+946000  matches
+947000  matches
+948000  matches
+949000  matches
+950000  matches
+951000  matches
+952000  matches
+953000  matches
+954000  matches
+955000  matches
+956000  matches
+957000  matches
+958000  matches
+959000  matches
+960000  matches
+961000  matches
+962000  matches
+963000  matches
+964000  matches
+965000  matches
+966000  matches
+967000  matches
+968000  matches
+969000  matches
+970000  matches
+971000  matches
+972000  matches
+973000  matches
+974000  matches
+975000  matches
+976000  matches
+977000  matches
+978000  matches
+979000  matches
+980000  matches
+981000  matches
+982000  matches
+983000  matches
+984000  matches
+985000  matches
+986000  matches
+987000  matches
+988000  matches
+989000  matches
+990000  matches
+991000  matches
+992000  matches
+993000  matches
+994000  matches
+995000  matches
+996000  matches
+997000  matches
+998000  matches
+999000  matches
+1000000  matches
+1001000  matches
+1002000  matches
+1003000  matches
+1004000  matches
+1005000  matches
+1006000  matches
+1007000  matches
+360000 processed, 17505 records/second; comparisons: 3517999
+Records: 360000
+1008000  matches
+1009000  matches
+1010000  matches
+1011000  matches
+1012000  matches
+1013000  matches
+1014000  matches
+1015000  matches
+1016000  matches
+1016000  matches
+1017000  matches
+1018000  matches
+1019000  matches
+1020000  matches
+1021000  matches
+1022000  matches
+1023000  matches
+1024000  matches
+1025000  matches
+1026000  matches
+1027000  matches
+1028000  matches
+1029000  matches
+1030000  matches
+1031000  matches
+1032000  matches
+1033000  matches
+1034000  matches
+1035000  matches
+1036000  matches
+1037000  matches
+1038000  matches
+1039000  matches
+1040000  matches
+1041000  matches
+1042000  matches
+1043000  matches
+1044000  matches
+1045000  matches
+1046000  matches
+1047000  matches
+1048000  matches
+1049000  matches
+1050000  matches
+1051000  matches
+1052000  matches
+1053000  matches
+1054000  matches
+1055000  matches
+1056000  matches
+1057000  matches
+1058000  matches
+1059000  matches
+1060000  matches
+1061000  matches
+1062000  matches
+1063000  matches
+1064000  matches
+1065000  matches
+1066000  matches
+1067000  matches
+1068000  matches
+1069000  matches
+1070000  matches
+1071000  matches
+1072000  matches
+1073000  matches
+1074000  matches
+1075000  matches
+1076000  matches
+1077000  matches
+1078000  matches
+1079000  matches
+1080000  matches
+1081000  matches
+1082000  matches
+1083000  matches
+1084000  matches
+1085000  matches
+1086000  matches
+1087000  matches
+1088000  matches
+1089000  matches
+1090000  matches
+1091000  matches
+1092000  matches
+1093000  matches
+1094000  matches
+1095000  matches
+1096000  matches
+1097000  matches
+1098000  matches
+1099000  matches
+1100000  matches
+1101000  matches
+1102000  matches
+1103000  matches
+1104000  matches
+1105000  matches
+1106000  matches
+1107000  matches
+1108000  matches
+1109000  matches
+1110000  matches
+1111000  matches
+1112000  matches
+1113000  matches
+1114000  matches
+1115000  matches
+1116000  matches
+1117000  matches
+1118000  matches
+1119000  matches
+1120000  matches
+1121000  matches
+1122000  matches
+1123000  matches
+1124000  matches
+1125000  matches
+1126000  matches
+1127000  matches
+1128000  matches
+1129000  matches
+1130000  matches
+1131000  matches
+1132000  matches
+1133000  matches
+1134000  matches
+1135000  matches
+1136000  matches
+1137000  matches
+1138000  matches
+1139000  matches
+1140000  matches
+1141000  matches
+1142000  matches
+1143000  matches
+1144000  matches
+1145000  matches
+1146000  matches
+1147000  matches
+1148000  matches
+1149000  matches
+1150000  matches
+1151000  matches
+1152000  matches
+1153000  matches
+1154000  matches
+400000 processed, 17006 records/second; comparisons: 3910279
+Records: 400000
+1155000  matches
+1156000  matches
+1157000  matches
+1158000  matches
+1159000  matches
+1160000  matches
+1161000  matches
+1162000  matches
+1163000  matches
+1164000  matches
+1165000  matches
+1166000  matches
+1167000  matches
+1168000  matches
+1169000  matches
+1170000  matches
+1171000  matches
+1172000  matches
+1173000  matches
+1174000  matches
+1175000  matches
+1176000  matches
+1177000  matches
+1178000  matches
+1179000  matches
+1180000  matches
+1181000  matches
+1182000  matches
+1183000  matches
+1184000  matches
+1185000  matches
+1186000  matches
+1187000  matches
+1188000  matches
+1189000  matches
+1190000  matches
+1191000  matches
+1192000  matches
+1193000  matches
+1194000  matches
+1195000  matches
+1196000  matches
+1197000  matches
+1198000  matches
+1199000  matches
+1200000  matches
+1201000  matches
+1202000  matches
+1203000  matches
+1204000  matches
+1205000  matches
+440000 processed, 17722 records/second; comparisons: 4300464
+Records: 440000
+480000 processed, 16785 records/second; comparisons: 4690076
+Records: 480000
+520000 processed, 17219 records/second; comparisons: 5078841
+Records: 520000
+560000 processed, 16985 records/second; comparisons: 5467575
+Records: 560000
+600000 processed, 17520 records/second; comparisons: 5856267
+Records: 600000
+1206000  matches
+640000 processed, 17248 records/second; comparisons: 6245295
+Records: 640000
+680000 processed, 17929 records/second; comparisons: 6634708
+Records: 680000
+720000 processed, 17174 records/second; comparisons: 7023544
+Records: 720000
+760000 processed, 17028 records/second; comparisons: 7413159
+Records: 760000
+800000 processed, 16985 records/second; comparisons: 7802296
+Records: 800000
+840000 processed, 17043 records/second; comparisons: 8191624
+Records: 840000
+880000 processed, 16799 records/second; comparisons: 8583569
+Records: 880000
+920000 processed, 16806 records/second; comparisons: 8975191
+Records: 920000
+960000 processed, 17145 records/second; comparisons: 9367054
+Records: 960000
+1000000 processed, 17346 records/second; comparisons: 9758727
+Records: 1000000
+1000026 processed, 13000 records/second; comparisons: 9758849
+
+Total records: 1000026
+Total matches: 1206303
+Total non-matches: 768081
+Run completed, 16773 records/second
+1000026 records total in 59 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 268 (94%)
+Comparing: 13 (4%)
+Callbacks: 0 (0%)
+
+Total memory: 1717567488, free memory: 997599744, used memory: 719967744
+Processing time for this rule: 59.66 seconds
+Total processing time so far: 188.875 seconds
+
+Matching config number 5 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI300.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+40000 processed, 8806 records/second; comparisons: 7809
+Records: 40000
+80000 processed, 9257 records/second; comparisons: 15684
+Records: 80000
+1000  matches
+120000 processed, 9049 records/second; comparisons: 23509
+Records: 120000
+160000 processed, 8982 records/second; comparisons: 31421
+Records: 160000
+200000 processed, 9257 records/second; comparisons: 39319
+Records: 200000
+2000  matches
+240000 processed, 9168 records/second; comparisons: 47362
+Records: 240000
+280000 processed, 9385 records/second; comparisons: 55321
+Records: 280000
+3000  matches
+320000 processed, 8938 records/second; comparisons: 63219
+Records: 320000
+360000 processed, 9082 records/second; comparisons: 71163
+Records: 360000
+400000 processed, 9237 records/second; comparisons: 78931
+Records: 400000
+4000  matches
+440000 processed, 9151 records/second; comparisons: 86893
+Records: 440000
+480000 processed, 9004 records/second; comparisons: 94753
+Records: 480000
+5000  matches
+520000 processed, 8970 records/second; comparisons: 102646
+Records: 520000
+560000 processed, 9134 records/second; comparisons: 110643
+Records: 560000
+600000 processed, 9136 records/second; comparisons: 118697
+Records: 600000
+6000  matches
+640000 processed, 8962 records/second; comparisons: 126600
+Records: 640000
+680000 processed, 9084 records/second; comparisons: 134572
+Records: 680000
+7000  matches
+720000 processed, 9147 records/second; comparisons: 142428
+Records: 720000
+760000 processed, 8720 records/second; comparisons: 150186
+Records: 760000
+800000 processed, 9186 records/second; comparisons: 158219
+Records: 800000
+8000  matches
+840000 processed, 9163 records/second; comparisons: 166219
+Records: 840000
+880000 processed, 8936 records/second; comparisons: 174033
+Records: 880000
+920000 processed, 9189 records/second; comparisons: 181958
+Records: 920000
+9000  matches
+960000 processed, 9157 records/second; comparisons: 189862
+Records: 960000
+1000000 processed, 9310 records/second; comparisons: 197768
+Records: 1000000
+1000026 processed, 8666 records/second; comparisons: 197772
+
+Total records: 1000026
+Total matches: 9751
+Total non-matches: 990186
+Run completed, 8959 records/second
+1000026 records total in 111 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 539 (99%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 1722286080, free memory: 820639272, used memory: 901646808
+Processing time for this rule: 111.646 seconds
+Total processing time so far: 300.521 seconds
+
+Matching config number 6 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI400.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+40000 processed, 245398 records/second; comparisons: 9179
+Records: 40000
+80000 processed, 215053 records/second; comparisons: 18463
+Records: 80000
+120000 processed, 287769 records/second; comparisons: 27870
+Records: 120000
+160000 processed, 192307 records/second; comparisons: 37101
+Records: 160000
+200000 processed, 338983 records/second; comparisons: 46697
+Records: 200000
+240000 processed, 68259 records/second; comparisons: 56015
+Records: 240000
+280000 processed, 300751 records/second; comparisons: 66061
+Records: 280000
+320000 processed, 272108 records/second; comparisons: 75211
+Records: 320000
+360000 processed, 231213 records/second; comparisons: 84643
+Records: 360000
+400000 processed, 277777 records/second; comparisons: 94458
+Records: 400000
+440000 processed, 161290 records/second; comparisons: 104354
+Records: 440000
+480000 processed, 344827 records/second; comparisons: 114577
+Records: 480000
+520000 processed, 166666 records/second; comparisons: 124794
+Records: 520000
+560000 processed, 300751 records/second; comparisons: 135114
+Records: 560000
+600000 processed, 168067 records/second; comparisons: 145248
+Records: 600000
+640000 processed, 314960 records/second; comparisons: 155704
+Records: 640000
+680000 processed, 163265 records/second; comparisons: 165761
+Records: 680000
+720000 processed, 338983 records/second; comparisons: 175783
+Records: 720000
+760000 processed, 169491 records/second; comparisons: 185819
+Records: 760000
+800000 processed, 307692 records/second; comparisons: 195454
+Records: 800000
+840000 processed, 305343 records/second; comparisons: 205445
+Records: 840000
+880000 processed, 229885 records/second; comparisons: 215139
+Records: 880000
+920000 processed, 347826 records/second; comparisons: 224872
+Records: 920000
+960000 processed, 186046 records/second; comparisons: 233897
+Records: 960000
+1000000 processed, 327868 records/second; comparisons: 243846
+Records: 1000000
+1000026 processed, 13000 records/second; comparisons: 243846
+
+Total records: 1000026
+Total matches: 0
+Total non-matches: 991519
+Run completed, 142372 records/second
+1000026 records total in 7 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 18 (92%)
+Comparing: 1 (7%)
+Callbacks: 0 (0%)
+
+Total memory: 1649410048, free memory: 465163576, used memory: 1184246472
+Processing time for this rule: 7.053 seconds
+Total processing time so far: 307.574 seconds
+
+Matching config number 7 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI460.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+40000 processed, 8988 records/second; comparisons: 7812
+Records: 40000
+80000 processed, 9157 records/second; comparisons: 15688
+Records: 80000
+120000 processed, 8942 records/second; comparisons: 23514
+Records: 120000
+160000 processed, 9049 records/second; comparisons: 31425
+Records: 160000
+200000 processed, 9142 records/second; comparisons: 39323
+Records: 200000
+240000 processed, 8980 records/second; comparisons: 47364
+Records: 240000
+280000 processed, 8873 records/second; comparisons: 55322
+Records: 280000
+320000 processed, 8960 records/second; comparisons: 63221
+Records: 320000
+360000 processed, 9072 records/second; comparisons: 71167
+Records: 360000
+400000 processed, 9099 records/second; comparisons: 78937
+Records: 400000
+440000 processed, 8785 records/second; comparisons: 86899
+Records: 440000
+480000 processed, 9037 records/second; comparisons: 94759
+Records: 480000
+520000 processed, 9101 records/second; comparisons: 102654
+Records: 520000
+560000 processed, 8570 records/second; comparisons: 110651
+Records: 560000
+600000 processed, 9057 records/second; comparisons: 118705
+Records: 600000
+640000 processed, 8988 records/second; comparisons: 126610
+Records: 640000
+680000 processed, 8300 records/second; comparisons: 134580
+Records: 680000
+720000 processed, 8438 records/second; comparisons: 142434
+Records: 720000
+760000 processed, 8739 records/second; comparisons: 150192
+Records: 760000
+800000 processed, 8924 records/second; comparisons: 158226
+Records: 800000
+840000 processed, 8940 records/second; comparisons: 166226
+Records: 840000
+880000 processed, 8886 records/second; comparisons: 174040
+Records: 880000
+920000 processed, 9136 records/second; comparisons: 181966
+Records: 920000
+960000 processed, 8898 records/second; comparisons: 189870
+Records: 960000
+1000000 processed, 8976 records/second; comparisons: 197775
+Records: 1000000
+1000026 processed, 8666 records/second; comparisons: 197779
+
+Total records: 1000026
+Total matches: 0
+Total non-matches: 999798
+Run completed, 8731 records/second
+1000026 records total in 114 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 548 (99%)
+Comparing: 1 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 1677197312, free memory: 1350628488, used memory: 326568824
+Processing time for this rule: 114.583 seconds
+Total processing time so far: 422.157 seconds
+
+Matching config number 8 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI461.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+40000 processed, 15396 records/second; comparisons: 391385
+Records: 40000
+80000 processed, 15779 records/second; comparisons: 779477
+Records: 80000
+120000 processed, 16736 records/second; comparisons: 1163813
+Records: 120000
+160000 processed, 17130 records/second; comparisons: 1555593
+Records: 160000
+200000 processed, 16906 records/second; comparisons: 1947481
+Records: 200000
+240000 processed, 16488 records/second; comparisons: 2339372
+Records: 240000
+280000 processed, 17043 records/second; comparisons: 2730996
+Records: 280000
+320000 processed, 16549 records/second; comparisons: 3122419
+Records: 320000
+360000 processed, 16549 records/second; comparisons: 3514319
+Records: 360000
+400000 processed, 16542 records/second; comparisons: 3905921
+Records: 400000
+440000 processed, 16820 records/second; comparisons: 4295696
+Records: 440000
+480000 processed, 16590 records/second; comparisons: 4685097
+Records: 480000
+520000 processed, 16992 records/second; comparisons: 5073735
+Records: 520000
+560000 processed, 16393 records/second; comparisons: 5462253
+Records: 560000
+600000 processed, 16750 records/second; comparisons: 5850806
+Records: 600000
+640000 processed, 16659 records/second; comparisons: 6239625
+Records: 640000
+680000 processed, 16122 records/second; comparisons: 6628836
+Records: 680000
+720000 processed, 15426 records/second; comparisons: 7017727
+Records: 720000
+760000 processed, 15822 records/second; comparisons: 7406969
+Records: 760000
+800000 processed, 16233 records/second; comparisons: 7796003
+Records: 800000
+840000 processed, 16611 records/second; comparisons: 8185230
+Records: 840000
+880000 processed, 16038 records/second; comparisons: 8576826
+Records: 880000
+920000 processed, 16181 records/second; comparisons: 8968237
+Records: 920000
+960000 processed, 16413 records/second; comparisons: 9360087
+Records: 960000
+1000000 processed, 16467 records/second; comparisons: 9751662
+Records: 1000000
+1000026 processed, 13000 records/second; comparisons: 9751783
+
+Total records: 1000026
+Total matches: 0
+Total non-matches: 999453
+Run completed, 15938 records/second
+1000026 records total in 62 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 272 (91%)
+Comparing: 24 (8%)
+Callbacks: 0 (0%)
+
+Total memory: 1691353088, free memory: 1361283272, used memory: 330069816
+Processing time for this rule: 62.763 seconds
+Total processing time so far: 484.92 seconds
+
+Matching config number 9 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI462.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+40000 processed, 16927 records/second; comparisons: 391378
+Records: 40000
+80000 processed, 17256 records/second; comparisons: 779295
+Records: 80000
+120000 processed, 17368 records/second; comparisons: 1163497
+Records: 120000
+160000 processed, 17167 records/second; comparisons: 1555420
+Records: 160000
+200000 processed, 17174 records/second; comparisons: 1947452
+Records: 200000
+240000 processed, 16949 records/second; comparisons: 2339353
+Records: 240000
+280000 processed, 17072 records/second; comparisons: 2730927
+Records: 280000
+320000 processed, 17722 records/second; comparisons: 3122390
+Records: 320000
+360000 processed, 17174 records/second; comparisons: 3514325
+Records: 360000
+400000 processed, 16856 records/second; comparisons: 3906104
+Records: 400000
+440000 processed, 16849 records/second; comparisons: 4295968
+Records: 440000
+480000 processed, 17101 records/second; comparisons: 4685567
+Records: 480000
+520000 processed, 17444 records/second; comparisons: 5074688
+Records: 520000
+560000 processed, 16999 records/second; comparisons: 5463507
+Records: 560000
+600000 processed, 17278 records/second; comparisons: 5852263
+Records: 600000
+640000 processed, 17817 records/second; comparisons: 6241326
+Records: 640000
+680000 processed, 17452 records/second; comparisons: 6630858
+Records: 680000
+720000 processed, 16576 records/second; comparisons: 7019758
+Records: 720000
+760000 processed, 16645 records/second; comparisons: 7409363
+Records: 760000
+800000 processed, 16934 records/second; comparisons: 7798552
+Records: 800000
+840000 processed, 16611 records/second; comparisons: 8188043
+Records: 840000
+880000 processed, 16941 records/second; comparisons: 8580047
+Records: 880000
+920000 processed, 16863 records/second; comparisons: 8971687
+Records: 920000
+960000 processed, 17152 records/second; comparisons: 9363726
+Records: 960000
+1000000 processed, 16701 records/second; comparisons: 9755511
+Records: 1000000
+1000026 processed, 13000 records/second; comparisons: 9755633
+
+Total records: 1000026
+Total matches: 102
+Total non-matches: 999351
+Run completed, 16604 records/second
+1000026 records total in 60 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 268 (93%)
+Comparing: 17 (6%)
+Callbacks: 0 (0%)
+
+Total memory: 1706557440, free memory: 511528728, used memory: 1195028712
+Processing time for this rule: 60.245 seconds
+Total processing time so far: 545.165 seconds
+
+Matching config number 10 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI475.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+40000 processed, 89887 records/second; comparisons: 0
+Records: 40000
+80000 processed, 76190 records/second; comparisons: 0
+Records: 80000
+120000 processed, 96385 records/second; comparisons: 0
+Records: 120000
+160000 processed, 99255 records/second; comparisons: 0
+Records: 160000
+200000 processed, 94562 records/second; comparisons: 0
+Records: 200000
+240000 processed, 94339 records/second; comparisons: 0
+Records: 240000
+280000 processed, 95693 records/second; comparisons: 0
+Records: 280000
+320000 processed, 97087 records/second; comparisons: 0
+Records: 320000
+360000 processed, 100502 records/second; comparisons: 0
+Records: 360000
+400000 processed, 95238 records/second; comparisons: 0
+Records: 400000
+440000 processed, 97560 records/second; comparisons: 0
+Records: 440000
+480000 processed, 91954 records/second; comparisons: 0
+Records: 480000
+520000 processed, 100000 records/second; comparisons: 0
+Records: 520000
+560000 processed, 77369 records/second; comparisons: 0
+Records: 560000
+600000 processed, 99255 records/second; comparisons: 0
+Records: 600000
+640000 processed, 94117 records/second; comparisons: 0
+Records: 640000
+680000 processed, 92807 records/second; comparisons: 0
+Records: 680000
+720000 processed, 96618 records/second; comparisons: 0
+Records: 720000
+760000 processed, 97560 records/second; comparisons: 0
+Records: 760000
+800000 processed, 93023 records/second; comparisons: 0
+Records: 800000
+840000 processed, 96153 records/second; comparisons: 0
+Records: 840000
+880000 processed, 91954 records/second; comparisons: 0
+Records: 880000
+920000 processed, 99255 records/second; comparisons: 0
+Records: 920000
+960000 processed, 93896 records/second; comparisons: 0
+Records: 960000
+1000000 processed, 99255 records/second; comparisons: 0
+Records: 1000000
+1000026 processed, 13000 records/second; comparisons: 0
+
+Total records: 1000026
+Total matches: 0
+Total non-matches: 996722
+Run completed, 79505 records/second
+1000026 records total in 12 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 50 (99%)
+Comparing: 0 (0%)
+Callbacks: 0 (0%)
+
+Total memory: 1705508864, free memory: 422909696, used memory: 1282599168
+Processing time for this rule: 12.615 seconds
+Total processing time so far: 557.78 seconds
+
+Matching config number 11 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI500.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+40000 processed, 215053 records/second; comparisons: 9186
+Records: 40000
+80000 processed, 298507 records/second; comparisons: 18481
+Records: 80000
+120000 processed, 177777 records/second; comparisons: 27893
+Records: 120000
+160000 processed, 347826 records/second; comparisons: 37129
+Records: 160000
+200000 processed, 163934 records/second; comparisons: 46726
+Records: 200000
+240000 processed, 360360 records/second; comparisons: 56043
+Records: 240000
+280000 processed, 300751 records/second; comparisons: 66096
+Records: 280000
+320000 processed, 172413 records/second; comparisons: 75260
+Records: 320000
+360000 processed, 305343 records/second; comparisons: 84679
+Records: 360000
+400000 processed, 183486 records/second; comparisons: 94511
+Records: 400000
+440000 processed, 333333 records/second; comparisons: 104424
+Records: 440000
+480000 processed, 161290 records/second; comparisons: 114653
+Records: 480000
+520000 processed, 303030 records/second; comparisons: 124875
+Records: 520000
+560000 processed, 180995 records/second; comparisons: 135218
+Records: 560000
+600000 processed, 317460 records/second; comparisons: 145365
+Records: 600000
+640000 processed, 166666 records/second; comparisons: 155838
+Records: 640000
+680000 processed, 320000 records/second; comparisons: 165885
+Records: 680000
+720000 processed, 166666 records/second; comparisons: 175922
+Records: 720000
+760000 processed, 277777 records/second; comparisons: 185963
+Records: 760000
+800000 processed, 303030 records/second; comparisons: 195602
+Records: 800000
+840000 processed, 176211 records/second; comparisons: 205595
+Records: 840000
+880000 processed, 325203 records/second; comparisons: 215278
+Records: 880000
+920000 processed, 169491 records/second; comparisons: 225018
+Records: 920000
+960000 processed, 317460 records/second; comparisons: 234064
+Records: 960000
+1000000 processed, 180180 records/second; comparisons: 244038
+Records: 1000000
+1000026 processed, 26000 records/second; comparisons: 244038
+
+Total records: 1000026
+Total matches: 0
+Total non-matches: 986463
+Run completed, 149794 records/second
+1000026 records total in 6 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 17 (90%)
+Comparing: 1 (9%)
+Callbacks: 0 (0%)
+
+Total memory: 1723334656, free memory: 1004058736, used memory: 719275920
+Processing time for this rule: 6.691 seconds
+Total processing time so far: 564.471 seconds

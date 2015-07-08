@@ -1,0 +1,73 @@
+FileName: X:\shrwan\duke-1.2\matchingConfigurationConsole.txt
+
+Matching config number 1 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI050.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+9 processed, 360 records/second; comparisons: 0
+
+Total records: 9
+Total matches: 0
+Total non-matches: 9
+Run completed, 2 records/second
+9 records total in 3 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 0 (76%)
+Comparing: 0 (0%)
+Callbacks: 0 (23%)
+
+Total memory: 257425408, free memory: 197469056, used memory: 59956352
+Processing time for this rule: 3.516 seconds
+Total processing time so far: 3.516 seconds
+
+Matching config number 2 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI175.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+9 processed, 310 records/second; comparisons: 0
+
+Total records: 9
+Total matches: 0
+Total non-matches: 8
+Run completed, 16 records/second
+9 records total in 0 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 0 (97%)
+Comparing: 0 (0%)
+Callbacks: 0 (2%)
+
+Total memory: 257425408, free memory: 180784560, used memory: 76640848
+Processing time for this rule: 0.553 seconds
+Total processing time so far: 4.069 seconds
+
+Matching config number 3 - X:\\shrwan\\duke-1.2\\xml_config\\vEMPI200.xml
+
+Duke version ${project.version}, build ${buildNumber}, built by ${user.name}
+LuceneDatabase, max-search-hits: 10, min-relevance: 0.99, fuzzy=false
+  null
+Threads: 5
+Records: 0
+9 processed, 428 records/second; comparisons: 9
+
+Total records: 9
+Total matches: 9
+Total non-matches: 0
+Run completed, 43 records/second
+9 records total in 0 seconds
+Reading from source: 0 (0%)
+Indexing: 0 (0%)
+Searching: 0 (94%)
+Comparing: 0 (4%)
+Callbacks: 0 (1%)
+
+Total memory: 257425408, free memory: 248495664, used memory: 8929744
+Processing time for this rule: 0.227 seconds
+Total processing time so far: 4.296 seconds

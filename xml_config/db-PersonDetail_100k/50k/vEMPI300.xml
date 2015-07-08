@@ -1,0 +1,67 @@
+<duke>
+<!--To run this job:  java -classpath ".;c:\duke-1.2\*" RunDukeTestAA vEMPI240.xml -->
+<!--TO recompile wrapper:  javac -cp c:\duke-1.2\* RunDukeTestAA.java -->
+<!-- -->
+
+<database class="no.priv.garshol.duke.databases.LuceneDatabase">
+    <param name="min-relevance" value="0.99"/>
+    <param name="max-search-hits" value="10"/>
+    <param name="path" value="lucene-index"/> 
+    <param name="fuzzy-search" value="false"/>
+</database>
+
+  <schema>
+    <threshold>0.99</threshold>
+    <maybe-threshold>0.5</maybe-threshold>
+    <path>test</path>
+
+	<!-- Match with scrubbed SSN where person key has the highest count. If the incoming demographics (new person_key) match to more than one existing person_key,
+		we want to pick the person_key among them that has showed up most often on incoming data previously and link to the associated member_key. (NOT arbitrarily like previous rules)-->
+	
+	<property>
+		<name>clientKey</name> 
+		  <comparator>no.priv.garshol.duke.comparators.ExactComparator</comparator>
+		  <low>0.0</low>
+		  <high>1</high>
+    </property>  
+	<property>
+      <name>SSN</name>
+      <comparator>no.priv.garshol.duke.comparators.ExactComparator</comparator>
+      <low>0.0</low>
+      <high>1</high>
+    </property>    
+  </schema>  
+
+  <!-- ORDER OF THESE GROUPS MATTERS!!! It returns links for topGroup RIGHT JOIN bottomGroup - i.e. no record is returned for a topGroup record that doesnt match a bottomGroup record.
+		However, bottomGroup records that don't join to a topGroup record are returned as "non-match" -->
+  <group>
+  
+  <jdbc>
+	    <param name="driver-class" value="com.microsoft.sqlserver.jdbc.SQLServerDriver"/>
+	    <param name="connection-string" value="jdbc:sqlserver://localhost;databaseName=vMPI;integratedSecurity=false"/>
+	    <param name="user-name" value="jdbc"/>
+	    <param name="password" value="jdbc"/>
+	    <param name="query" value="select 
+									  identifier 
+									, ssn 
+									from dbo.PersonDetail_100k"/> 
+		<column name="identifier" 
+				property="clientKey"/> 
+		<column name="ssn"
+				cleaner="no.priv.garshol.duke.cleaners.DigitsOnlyCleaner"
+				property="SSN"/> 
+	  </jdbc>
+  </group>
+  <group>
+	  <csv>
+		<param name="input-file" value="e:\data\openempi_test_patients8_50k.csv" />
+		<param name="header-line" value="false" />
+		
+	    <column name="1" 
+				property="clientKey"/> 
+		<column name="11"
+				cleaner="no.priv.garshol.duke.cleaners.DigitsOnlyCleaner"
+				property="SSN"/> 
+	  </csv>
+  </group>
+</duke>
